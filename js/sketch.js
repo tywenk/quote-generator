@@ -2,7 +2,7 @@
 let rValueJudg = ['Do', 'Do Not', 'Always', 'Never', 'Sometimes']
 let rVerb = ['Strike', 'Outrun', 'Overthink', 'Forget', 'Remember', 'Listen To', 'Speak Over', 'Forgive', 'Repent', 'Distill', 'Inflate'];
 let rSubj = ['Yourself', 'The Other', 'Your Neighbor', "Them", "Us"];
-let rSubj2 = ['Before', 'After', "During", "While"]
+let rSubj2 = ['Before', 'After', "While"]
 let rCon2 = ["Doing", "Feeding", "Feeling", "Giving", "Donating", "Breathing", "Exhaling", "Living", "Birthing"]
 let rAdv = ['Quickly', 'Sadly', 'Happily', 'Calmly'];
 
